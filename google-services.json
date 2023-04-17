@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378126158158",
+    "project_id": "cituationapp-4eabc",
+    "storage_bucket": "cituationapp-4eabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378126158158:android:66f843519fa24bfa85f61f",
+        "android_client_info": {
+          "package_name": "com.cituation.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378126158158-as9e73pc73cmimugfittj0b7n9ja6a25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGWpf7xRBjq6Z6UCy79NYdZ7Dhg1zOPXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378126158158-as9e73pc73cmimugfittj0b7n9ja6a25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
